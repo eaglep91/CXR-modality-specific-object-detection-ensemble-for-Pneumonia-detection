@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 16 19:48:01 2022
-
-@author: guop2
-"""
-
 
 import glob
 import json
