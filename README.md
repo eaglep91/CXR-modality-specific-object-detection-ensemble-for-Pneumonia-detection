@@ -41,5 +41,5 @@ the argument "--weights" can be used to load the pre-trained modality-specific m
 
 the "losses.py" is the loss modification, it should replace the original file if a customized loss is used. 
 
-The RetinaNet test code is provided and after the testing, a post-process is needed to split the preditions in different files per image. Because the bbox_ensble code and the map_Eval (mAP evaluation) code require the input data to be in specific format. 
+The RetinaNet test code is provided and after the testing, a post-process is needed to split the predictions in different files per image. Because the bbox_ensemble code and the map_Eval (mAP evaluation) code require the input data to be in specific format. 
 
